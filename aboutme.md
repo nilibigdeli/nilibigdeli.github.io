@@ -3,6 +3,7 @@ layout: post
 title: About me
 description:
 image: assets/images/aboutme-niloofar.jpg
+alternate-image: assets/images/aboutme-alternate-niloofar.jpg
 nav-menu: true
 ---
 
