@@ -150,7 +150,7 @@ nav-menu: true
 		<!-- Graphic Design -->
 		<h3>Infographics &amp; Graphic Design</h3>
 		<p>In the vast sea of social media, the key is to stand out. Vibrant and eye-catching visuals tend to do the trick. However, the content should align with the company's nature and objective. For B2B, content that focuses on industry insights, in-depth case studies, and infographics can be effective while on the B2C side, the content can be more emotionally driven. People often connect with brands on a personal level, so content that resonates with their lifestyle or aspirations can be compelling.</p>
-		<p>I have the experience on both planning and implementing graphic designs for B2B and B2C companies' social media using <b>Adobe Photoshop</b> and <b>Canva</b>. <em> Checkout my <a href="#" class="icon fa-github"> <b> Github </b> </a> repository for more samples of my graphic designs.</em> You can also checkout my <a href="/photography.html"> photography projects</a> as everything starts with nice pictures.</p>
+		<p>I have the experience on both planning and implementing graphic designs for B2B and B2C companies' social media using <b>Adobe Photoshop</b> and <b>Canva</b>. <em> Checkout my <a href="https://github.com/nilibigdeli/nilibigdeli.github.io/tree/page/assets/images/graphics" class="icon fa-github"> <b> Github </b> </a> repository for more samples of my graphic designs.</em> You can also checkout my <a href="/photography.html"> photography projects</a> as everything starts with nice pictures.</p>
 		<div class="row">
 			<div class="3u 12u$(small)">
 				<span class="fit"><img src="{% link assets/images/graphics/xxl.JPG %}" alt="" /></span>
