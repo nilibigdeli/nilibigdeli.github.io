@@ -14,6 +14,7 @@ nav-menu: true
 	        <div class="9u 12u$(small)">
 		        <p>Hey there, I'm Niloofar, a passionate social media enthusiast with over three years of experience helping companies enhance their online presence. From crafting strategic social media plans to executing them, I've got your back in both organic and paid social.</p>
                 <h5>Let's elevate your social presence together! 🚀✨</h5>
+                <a href="{% link assets/cv/Niloofar_Bigdeli_CV.pdf %}" class="icon fa-download"><b> CV</b></a>
 	        </div>
 	        <div class="3u$ 12u$(small)">
 		        <span class="image fit"><img src="{% link assets/images/niloofar2.jpg %}" alt="" /></span>
