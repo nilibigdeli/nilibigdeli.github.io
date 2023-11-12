@@ -22,12 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  envelope: mailto:bigdeli.niloofar1992@gmail.com
+  LinkedIn: https://www.linkedin.com/in/niloofar-bigdeli/
+  GitHub: https://github.com/nilibigdeli
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Twitter:
   Facebook:
   Slack:
 

@@ -1,14 +1,54 @@
 ---
-layout: post
+layout: page
 title: About me
-description:
 image: assets/images/aboutme-niloofar.jpg
-alternate-image: assets/images/aboutme-alternate-niloofar.jpg
 nav-menu: true
 ---
+<div id="main" class="alt">
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>About me</h1>
+		</header>
+        <div class="row">
+	        <div class="6u 12u$(small)">
+		        <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	        </div>
+	        <div class="6u$ 12u$(small)">
+		        <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+    	    </div>
+        </div>
+        <h2 id="elements">Professional Skills</h2>
+        <div class="row">
+            <div class="4u 12u$(small)">
+                <h4>Social Media</h4>
+            	<ul>
+			        <li>LinkedIn Ads</li>
+			        <li>Facebook Business Suite</li>
+			        <li>Hootsuite</li>
+                    <li>Sprout Social</li>
+		        </ul>
+            </div>
+            <div class="4u 12u$(small)">
+                <h4>Digital Marketing</h4>
+            	<ul>
+			        <li>Google Analytics 4</li>
+			        <li> Google Tag Manager</li>
+			        <li>HubSpot</li>
+                    <li>Search engine optimization (SEO)</li>
+		        </ul>
+            </div>
+            <div class="4u 12u$(small)">
+                <h4>Content Creation</h4>
+            	<ul>
+			        <li>Adobe Photoshop</li>
+			        <li>Adobe After Effects</li>
+			        <li>Adobe Premiere</li>
+                    <li>Canva</li>
+		        </ul>
+            </div>
+        </div>
+    </div>
+</section>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+</div>
