@@ -15,30 +15,125 @@ nav-menu: true
 			<h1>Portfolio</h1>
 		</header>
 		<h2 id="content">Featured Projects</h2>
-		<div class="inner">
-			<div>
-			<p><span class="3u image left"><img src="{% link assets/images/loop54.jpg %}" alt="" /></span>
-			<h4>Loop54 (FACT Finder)</h4>
-			In Loop54 (which later acquired by FACT Finder) we worked on brand awareness and promoting the company in Europe. We achieved significant improvements in KPIs within a year! </p>
-			<ul id="customUL">
-				<li id="customLI">SoMe Strategy</li>
-				<li id="customLI">Content Writing</li>
-			</ul>
+		<!-- Loop54 -->
+		<div class="row">
+			<div class="4u 12u$(small)">
+				<span class="fit"><img src="{% link assets/images/loop54.jpg %}" alt="" /></span>
+			</div>
+			<div class="8u 12u$(small)">
+				<h4>Loop54 (FactFinder)</h4>
+				<p> In Loop54 (which later acquired by FactFinder) we worked on brand awareness and promoting the company in Europe. We achieved significant improvements in KPIs within a year! </p>
+				<div class="row">
+					<div class="6u 12u$(small)">
+						<ul id="customUL">
+							<li id="customLI">Social Media Management</li>
+							<li id="customLI">LinkedIn and Facebook Ads</li>
+						</ul>
+					</div>
+					<div class="6u 12u$(small)">
+						<ul id="customUL">
+							<li id="customLI">Content Writing</li>
+							<li id="customLI">Visual Content Creation</li>
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="1u 12u$(small)">
+						<h5>Links:</h5>
+						<h5>Date:</h5>
+					</div>
+					<div class="10u 12u$(small)">
+						<ul class="icons" id="customiconsul" >
+							<li><a href="#" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						</ul>
+						<p>April 2021 - October 2022</p>
+					</div>
+				</div>
 			</div>
 		</div>
-		<div class="row">
+		<!-- Boomrang -->
+		<div class="row" style="margin-top: 4em;">
+			<div class="8u 12u$(small)">
+				<h4>Boomrang Digital Marketing Agency</h4>
+				<p> In Loop54 (which later acquired by FactFinder) we worked on brand awareness and promoting the company in Europe. We achieved significant improvements in KPIs within a year! </p>
+				<div class="row">
+					<div class="6u 12u$(small)">
+						<ul id="customUL">
+							<li id="customLI">Social Media Management</li>
+							<li id="customLI">LinkedIn and Facebook Ads</li>
+						</ul>
+					</div>
+					<div class="6u 12u$(small)">
+						<ul id="customUL">
+							<li id="customLI">Content Writing</li>
+							<li id="customLI">Visual Content Creation</li>
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="1u 12u$(small)">
+						<h5>Links:</h5>
+						<h5>Date:</h5>
+					</div>
+					<div class="10u 12u$(small)">
+						<ul class="icons" id="customiconsul" >
+							<li><a href="#" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						</ul>
+						<p>April 2021 - October 2022</p>
+					</div>
+				</div>
+			</div>
+			<div class="4u 12u$(small)">
+				<span class="fit"><img src="{% link assets/images/Sunich02.jpg %}" alt="" /></span>
+			</div>
 		</div>
-		<div class="inner">
-			<p><span class="3u image right"><img src="{% link assets/images/Sunich02.jpg %}" alt="" /></span>
-			<h4>Boomrang Digital Marketing Agency</h4>
-			Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-		</div>
-		<div class="row">
-		</div>
-		<div class="inner">
-			<p><span class="3u image left"><img src="{% link assets/images/Inverse02.jpg %}" alt="" /></span>
-			<h4>Inverse Digital School</h4>
-			Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+		<!-- Inverse -->
+		<div class="row" style="margin-top: 4em;">
+			<div class="4u 12u$(small)">
+				<span class="fit"><img src="{% link assets/images/Inverse02.jpg %}" alt="" /></span>
+			</div>
+			<div class="8u 12u$(small)">
+				<h4>Inverse Digital School</h4>
+				<p> In Loop54 (which later acquired by FactFinder) we worked on brand awareness and promoting the company in Europe. We achieved significant improvements in KPIs within a year! </p>
+				<div class="row">
+					<div class="6u 12u$(small)">
+						<ul id="customUL">
+							<li id="customLI">Social Media Management</li>
+							<li id="customLI">LinkedIn and Facebook Ads</li>
+						</ul>
+					</div>
+					<div class="6u 12u$(small)">
+						<ul id="customUL">
+							<li id="customLI">Content Writing</li>
+							<li id="customLI">Visual Content Creation</li>
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="1u 12u$(small)">
+						<h5>Links:</h5>
+						<h5>Date:</h5>
+					</div>
+					<div class="10u 12u$(small)">
+						<ul class="icons" id="customiconsul" >
+							<li><a href="#" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						</ul>
+						<p>April 2021 - October 2022</p>
+					</div>
+				</div>
+			</div>
 		</div>
 		<hr class="major" />
 		<h2 id="content">Visual Content</h2>
