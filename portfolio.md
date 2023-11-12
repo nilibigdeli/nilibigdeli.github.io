@@ -108,7 +108,7 @@ nav-menu: true
 			</div>
 			<div class="8u 12u$(small)">
 				<h4><a href="https://inverseschool.com/">Inverse Digital School</a></h4>
-				<p>As a school of art and design, I helped with Inverse precense in multiple social media platforms, including, Instagram and YouTube. Our objective was boosting engagement and enhance brand visibility, hence, we implemented effective micro-influencer marketing campagins to increase the website visits.</p>
+				<p>In my role as a social media specialist, I contributed to Inverse School's presence on various platforms like Instagram and YouTube. Our goal was to increase engagement and improve brand visibility. To achieve this, we launched successful micro-influencer marketing campaigns aimed at driving more traffic to the website.</p>
 				<div class="row">
 					<div class="2u 12u$(small)">
 						<h5>Contributions:</h5>
@@ -122,7 +122,7 @@ nav-menu: true
 					<div class="5u 12u$(small)">
 						<ul id="customUL">
 							<li id="customLI">Online Event Organization</li>
-							<li id="customLI">Visual Content Creation</li>
+							<li id="customLI">Email Marketing</li>
 						</ul>
 					</div>
 				</div>
