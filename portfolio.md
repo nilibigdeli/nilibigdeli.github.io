@@ -48,12 +48,12 @@ nav-menu: true
 					</div>
 					<div class="9u 12u$(small)">
 						<ul class="icons" id="customiconsul" >
-							<li><a href="https://www.linkedin.com/company/fact-finder/" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://www.linkedin.com/company/loop54/" class="icon fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://www.instagram.com/loopfiftyfour/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="https://twitter.com/fact_finder" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="https://www.facebook.com/loopfiftyfour/?locale=sv_SE" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="https://www.youtube.com/@Fact-finderDe/featured" class="icon fa-youtube-square"><span class="label">Youtube</span></a></li>
+							<li><a href="https://www.linkedin.com/company/fact-finder/" class="icon fa-linkedin-square" target="_blank"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://www.linkedin.com/company/loop54/" class="icon fa-linkedin-square" target="_blank"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://www.instagram.com/loopfiftyfour/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+							<li><a href="https://twitter.com/fact_finder" class="icon fa-twitter"><span class="label" target="_blank">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/loopfiftyfour/?locale=sv_SE" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.youtube.com/@Fact-finderDe/featured" class="icon fa-youtube-square" target="_blank"><span class="label">Youtube</span></a></li>
 						</ul>
 						<p>April 2021 - October 2022</p>
 					</div>
@@ -89,9 +89,9 @@ nav-menu: true
 					</div>
 					<div class="9u 12u$(small)">
 						<ul class="icons" id="customiconsul" >
-							<li><a href="https://www.instagram.com/sunich_mixology/" class="icon fa-instagram"><span class="label">Instagram</span> Sunich mixology</a></li>
-							<li><a href="https://www.instagram.com/castroliran/" class="icon fa-instagram"><span class="label">Instagram</span> Castrol Iran</a></li>
-							<li><a href="https://www.instagram.com/phonepayir/" class="icon fa-instagram"><span class="label">Instagram</span> PhonePay</a></li>
+							<li><a href="https://www.instagram.com/sunich_mixology/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span> Sunich mixology</a></li>
+							<li><a href="https://www.instagram.com/castroliran/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span> Castrol Iran</a></li>
+							<li><a href="https://www.instagram.com/phonepayir/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span> PhonePay</a></li>
 						</ul>
 						<p>Feb 2017 - Sep 2018</p>
 					</div>
@@ -133,8 +133,8 @@ nav-menu: true
 					</div>
 					<div class="9u 12u$(small)">
 						<ul class="icons" id="customiconsul" >
-							<li><a href="https://www.instagram.com/inverseschool/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="https://www.youtube.com/@inverseschool/videos" class="icon fa-youtube-square"><span class="label">YouTube</span></a></li>
+							<li><a href="https://www.instagram.com/inverseschool/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.youtube.com/@inverseschool/videos" class="icon fa-youtube-square" target="_blank"><span class="label">YouTube</span></a></li>
 						</ul>
 						<p>Nov 2018 - March 2019</p>
 					</div>
