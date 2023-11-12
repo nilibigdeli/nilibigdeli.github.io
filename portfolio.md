@@ -150,7 +150,7 @@ nav-menu: true
 		<!-- Graphic Design -->
 		<h3>Infographics &amp; Graphic Design</h3>
 		<p>In the vast sea of social media, the key is to stand out. Vibrant and eye-catching visuals tend to do the trick. However, the content should align with the company's nature and objective. For B2B, content that focuses on industry insights, in-depth case studies, and infographics can be effective while on the B2C side, the content can be more emotionally driven. People often connect with brands on a personal level, so content that resonates with their lifestyle or aspirations can be compelling.</p>
-		<p>I have the experience on both planning and implementing graphic designs for B2B and B2C companies' social media using <b>Adobe Photoshop</b> and <b>Canva</b>. <em> Checkout my <a href="https://github.com/nilibigdeli/nilibigdeli.github.io/tree/page/assets/images/graphics" class="icon fa-github"> <b> Github </b> </a> repository for more samples of my graphic designs.</em> You can also checkout my <a href="/photography.html"> photography projects</a> as everything starts with nice pictures.</p>
+		<p>I have the experience on both planning and implementing graphic designs for B2B and B2C companies' social media using <b>Adobe Photoshop</b> and <b>Canva</b>. <em> Checkout my <a href="https://github.com/nilibigdeli/nilibigdeli.github.io/tree/page/assets/images/graphics" class="icon fa-github" target="_blank"> <b> Github </b> </a> repository for more samples of my graphic designs.</em> You can also checkout my <a href="/photography.html"> photography projects</a> as everything starts with nice pictures.</p>
 		<div class="row">
 			<div class="3u 12u$(small)">
 				<span class="fit"><img src="{% link assets/images/graphics/xxl.JPG %}" alt="" /></span>
@@ -169,7 +169,7 @@ nav-menu: true
 		<div style="margin-top: 4em;">
 			<h3>Short Videos &amp; Animated Graphics</h3>
 			<p>Similar to images, short videos and animated graphics are like the rockstars of social media content as they grab attention quickly and are highly shareable. Videos can add a dynamic and visually appealing element to the content. They're versatile and can be used to showcase the brand's personality and explain complex concepts in a more engaging way. Yet again, the type of videos should align with the company's type. For B2B companies, videos that showcase product demonstrations and client testimonials can be effective to build credibility and trust. However for B2C companies, videos could include product tutorials, entertaining and lifestyle-oriented videos to create a personal connection with the audience.</p>
-			<p> In addition to SoMe planning, I have experience on making short videos and animated graphics using <b>Adobe Premiere </b>, <b>Adobe After Effects</b>, <b>Bannerflow</b>, and <b>Canva</b>. <em> You can find more samples of my work in my <a href="https://github.com/nilibigdeli/nilibigdeli.github.io/tree/page/assets/videos" class="icon fa-github"> <b> Github </b> </a> repository. </em> </p>
+			<p> In addition to SoMe planning, I have experience on making short videos and animated graphics using <b>Adobe Premiere </b>, <b>Adobe After Effects</b>, <b>Bannerflow</b>, and <b>Canva</b>. <em> You can find more samples of my work in my <a href="https://github.com/nilibigdeli/nilibigdeli.github.io/tree/page/assets/videos" class="icon fa-github" target="_blank"> <b> Github </b> </a> repository. </em> </p>
 			<div class="row">
 				<div class="4u 12u$(small)">
 					<span class="fit">
