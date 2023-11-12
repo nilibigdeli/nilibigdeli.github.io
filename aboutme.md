@@ -12,9 +12,29 @@ nav-menu: true
 		</header>
         <div class="row">
 	        <div class="9u 12u$(small)">
-		        <p>Hey there, I'm Niloofar, a passionate social media enthusiast with over three years of experience helping companies enhance their online presence. From crafting strategic social media plans to executing them, I've got your back in both organic and paid social.</p>
+		        <p>Hey there, I'm Niloofar, a passionate social media enthusiast with over three years of experience helping companies enhance their online presence. From crafting strategic social media plans to executing them, I've got your back in both organic and paid social. Checkout my <a href="/portfolio.html">portfolio</a> or download my <a href="{% link assets/cv/Niloofar_Bigdeli_CV.pdf %}"> Resumé </a>. </p>
                 <h5>Let's elevate your social presence together! 🚀✨</h5>
-                <a href="{% link assets/cv/Niloofar_Bigdeli_CV.pdf %}" class="icon fa-download"><b> CV</b></a>
+                <hr/>
+                <div class="row">
+					<div class="3u 12u$(small)">
+						<h4>Contact me:</h4>
+					</div>
+                    <div class="3u 12u$(small)">
+						<ul id="customUL">
+                            <a href="mailto:bigdeli.niloofar1992@gmail.com" class="icon fa-envelope"> Email</a>
+						</ul>
+					</div>
+					<div class="3u 12u$(small)">
+						<ul id="customUL">
+                            <a href="https://www.linkedin.com/in/niloofar-bigdeli/" class="icon fa-linkedin-square"> LinkedIn</a>
+						</ul>
+					</div>
+					<div class="3u 12u$(small)">
+						<ul id="customUL">
+                            <a href="https://github.com/nilibigdeli/" class="icon fa-github"> Github</a>
+						</ul>
+					</div>
+				</div>
 	        </div>
 	        <div class="3u$ 12u$(small)">
 		        <span class="image fit"><img src="{% link assets/images/niloofar2.jpg %}" alt="" /></span>
