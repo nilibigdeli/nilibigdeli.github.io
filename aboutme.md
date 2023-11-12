@@ -11,12 +11,12 @@ nav-menu: true
 			<h1>About me</h1>
 		</header>
         <div class="row">
-	        <div class="7u 12u$(small)">
+	        <div class="9u 12u$(small)">
 		        <p>Hey there, I'm Niloofar, a passionate social media enthusiast with over three years of experience helping companies enhance their online presence. From crafting strategic social media plans to executing them, I've got your back in both organic and paid social.</p>
                 <h5>Let's elevate your social presence together! 🚀✨</h5>
 	        </div>
-	        <div class="5u$ 12u$(small)">
-		        <span class="image fit"><img src="{% link assets/images/niloofar.jpg %}" alt="" /></span>
+	        <div class="3u$ 12u$(small)">
+		        <span class="image fit"><img src="{% link assets/images/niloofar2.jpg %}" alt="" /></span>
     	    </div>
         </div>
         <h2 id="elements">Professional Skills</h2>
